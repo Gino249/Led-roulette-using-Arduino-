@@ -11,3 +11,5 @@ D7 → Blue LED (via resistor)
 D8 → Yellow LED (via resistor)
 A0 → unconnected
 GND → common ground bus (button, buzzer, ring, LEDs, external supply)
+
+![Screenshot](Screenshot_2026-08-07-16-52-23-19_40deb401b9ffe8e1df2f1cc5ba480b12~2.jpg)
